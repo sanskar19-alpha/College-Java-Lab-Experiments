@@ -14,12 +14,66 @@ Branch & Year: B.Tech CSE — 3rd Year (5th Semester)
 
 Course: Advance Java Lab
 
-📂 Repository Structure
+Table of Contents
+Repository Overview
 
-├── EXP - 1/           # GUI Programming with Java Swing
-├── EXP - 2/           # Event-Driven Applications (Swing Calculator)
-├── EXP - 3/           # Database Connectivity using JDBC
-├── EXP - 4/           # Network Programming (Sockets)
-├── EXP - 5/           # Distributed Systems (RMI)
-├── EXP - 6/           # Web Development with Servlets
-├── EXP - 7/           # Dynamic Web Pages & Form Handling
+Lab Experiments (1 to 7)
+Lab 1: Student Registration GUI (Java Swing)
+Lab 2: Calculator following MVC Architecture
+Lab 3: Java Database Connectivity (JDBC)
+Lab 4: TCP Socket Client-Server Network Programming
+Lab 5: Remote Method Invocation (Java RMI)
+Lab 6: Jakarta Servlet, Filters, Sessions & Listeners
+Lab 7: HTML to Dynamic JSP Conversion & Expression Language
+
+Directory Structure
+│
+├── Experiment-1/                              # Student Registration GUI (Swing)
+│   ├── StudentRegistration.java
+│   └── run_lab1.bat
+│
+├── Experiment-2/                              # MVC Swing Calculator
+│   ├── CalculatorModel.java
+│   ├── CalculatorView.java
+│   ├── CalculatorController.java
+│   └── Main.java
+│
+├── Experiment-3/                              # JDBC Database Operations
+│   ├── lib/mysql-connector-j-26.7.0.jar
+│   ├── src/
+│   │   ├── JdbcDemo.java
+│   │   └── App.java
+│   └── bin/
+│
+├── Experiment-4/                              # TCP Socket Communication
+│   ├── Server.java
+│   └── Client.java
+│
+├── Experiment-5/                              # Remote Method Invocation (RMI)
+│   ├── MyInterface.java
+│   ├── MyRemote.java
+│   ├── Server.java
+│   └── Client.java
+│
+├── Experiment-6/                              # Jakarta Servlet Web Application
+│   └── servlet/
+│       ├── pom.xml
+│       └── src/main/
+│           ├── java/com/servlet/
+│           │   ├── HelloServlet.java
+│           │   ├── LoginServlet.java
+│           │   ├── HomeServlet.java
+│           │   ├── AuthFilter.java
+│           │   └── AppListener.java
+│           └── webapp/index.html
+│
+├── Experiment-7/                              # HTML to JSP Conversion & EL
+│   └── servlet/
+│       ├── pom.xml
+│       └── src/main/
+│           ├── java/com/servlet/
+│           │   └── HelloServlet.java
+│           └── webapp/
+│               ├── index.html
+│               ├── student.jsp
+│               └── result.jsp
