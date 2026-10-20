@@ -14,19 +14,24 @@ Branch & Year: B.Tech CSE — 3rd Year (5th Semester)
 
 Course: Advance Java Lab
 
-Table of Contents
-Repository Overview
+## Table of Contents
 
-Lab Experiments (1 to 7)
-Lab 1: Student Registration GUI (Java Swing)
-Lab 2: Calculator following MVC Architecture
-Lab 3: Java Database Connectivity (JDBC)
-Lab 4: TCP Socket Client-Server Network Programming
-Lab 5: Remote Method Invocation (Java RMI)
-Lab 6: Jakarta Servlet, Filters, Sessions & Listeners
-Lab 7: HTML to Dynamic JSP Conversion & Expression Language
+- [Repository Overview](#repository-overview)
+- [Directory Structure](#directory-structure)
+- [Experiments (1 to 7)](#lab-experiments-1-to-7)
+  - [Experiment-1: Student Registration GUI (Java Swing)](#lab-1-student-registration-gui-java-swing)
+  - [Experiment-2: Calculator following MVC Architecture](#lab-2-calculator-following-mvc-architecture)
+  - [Experiment-3: Java Database Connectivity (JDBC)](#lab-3-java-database-connectivity-jdbc)
+  - [Experiment-4: TCP Socket Client-Server Network Programming](#lab-4-tcp-socket-client-server-network-programming)
+  - [Experiment-5: Remote Method Invocation (Java RMI)](#lab-5-remote-method-invocation-java-rmi)
+  - [Experiment-6: Jakarta Servlet, Filters, Sessions & Listeners](#lab-6-jakarta-servlet-filters-sessions--listeners)
+  - [Experiment-7: HTML to Dynamic JSP Conversion & Expression Language](#lab-7-html-to-dynamic-jsp-conversion--expression-language)
+---
 
-Directory Structure
+## Directory Structure
+
+```text
+ADV. JAVA LAB/
 │
 ├── Experiment-1/                              # Student Registration GUI (Swing)
 │   ├── StudentRegistration.java
@@ -77,3 +82,4 @@ Directory Structure
 │               ├── index.html
 │               ├── student.jsp
 │               └── result.jsp
+
