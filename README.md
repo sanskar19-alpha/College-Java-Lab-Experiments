@@ -1,6 +1,6 @@
  Advance Java Lab
 
-Welcome to the Advance Java Lab repository! This repository contains all the practical experiments, notes, source code, and projects completed during my undergraduate Computer Science coursework.
+Welcome to the Java Lab Experiments repository! This repository contains all the practical experiments, notes, source code, and projects completed during my undergraduate Computer Science coursework.
 
 👤 Student Profile
 
